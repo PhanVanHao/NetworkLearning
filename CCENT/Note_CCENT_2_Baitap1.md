@@ -12,11 +12,11 @@ Khi thông tin được truyền tín hiệu vào một cổng của Hub, các c
 
 Hiện nay có 2 loại Hub phổ biến là Active Hub và Smart Hub:
 
-- 1.2.1 Active Hub: loại Hub này thường được dùng phổ biến hơn rất nhiều, cần được cấp nguồn khi hoạt động. 
+- - 1.2.1 Active Hub: loại Hub này thường được dùng phổ biến hơn rất nhiều, cần được cấp nguồn khi hoạt động. 
 Active Hub dùng để khuếch đại tín hiện đến và chia ra những cổng còn lại để đảm bảo tốc độ 
 tín hiệu cần thiết khi sử dụng.
 
-- 1.2.2 Smart Hub: hay còn gọi là Intelligent Hub cũng có chức năng làm việc tương tự như Active Hub, 
+- - 1.2.2 Smart Hub: hay còn gọi là Intelligent Hub cũng có chức năng làm việc tương tự như Active Hub, 
 nhưng được tích hợp thêm chip có khả năng tự động dò lỗi trên mạng.
 
 - 1.3 Bridge
